@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: SaySapped
+## Notes: Let's your allies know when you have been sapped.
+## Author: Bergador
+## Version: 1.0
+## Dependencies:
+SaySapped.lua
+SaySapped.xml
